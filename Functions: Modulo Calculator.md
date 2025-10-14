@@ -13,7 +13,21 @@ To write a Python program that defines a function which accepts two values and r
 ## 🧾 Program
 
 Add code Here
+```
+def result(a, b):
+    print(a % b)
+
+# Get two integer inputs from the user
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+# Call the function
+result(a, b)
+```
 
 ## Output
+<img width="805" height="91" alt="image" src="https://github.com/user-attachments/assets/4f1b1def-82c6-464e-a406-83138c508517" />
 
 ## Result
+The program successfully reads two integer inputs from the user, calculates the remainder (modulo) of the first number divided by the second, and displays the result on the screen.
+
