@@ -17,7 +17,8 @@ print(bin(a))
 
 
 ## Output
-![WhatsApp Image 2025-10-14 at 20 37 54_baedc6ce](https://github.com/user-attachments/assets/d4138ab8-72fb-4d58-99cb-e6832a112bdf)
+![WhatsApp Image 2025-10-19 at 19 21 03_ce56852a](https://github.com/user-attachments/assets/8d96f9fc-b6a6-4b22-9c56-8acc05ea1dd7)
+
 
 
 
